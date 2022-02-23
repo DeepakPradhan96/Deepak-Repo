@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BDDAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BDDAutomation/BddAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bit Bucket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobotFremwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wowdare_en" vcs="Git" />
+  </component>
+</project>

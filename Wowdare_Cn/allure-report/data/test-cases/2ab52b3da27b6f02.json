@@ -1,0 +1,147 @@
+{
+  "uid" : "2ab52b3da27b6f02",
+  "name" : "To check the functionality of the Home_Page With Valid & Invalid Data.",
+  "fullName" : "Wowdare User Side End to End Functionality: To check the functionality of the Home_Page With Valid & Invalid Data.",
+  "historyId" : "94ced41d7f167e5d1fb1dc9449cf1b30",
+  "time" : {
+    "start" : 1634803265784,
+    "stop" : 1634803303695,
+    "duration" : 37911
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User open Browser, Enter Url, Navigate To Log_in Page",
+      "time" : {
+        "start" : 1634803266045,
+        "stop" : 1634803283655,
+        "duration" : 17610
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When User Enter Username With Invalid Data",
+      "time" : {
+        "start" : 1634803283656,
+        "stop" : 1634803287673,
+        "duration" : 4017
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And Click On start Button",
+      "time" : {
+        "start" : 1634803287673,
+        "stop" : 1634803291126,
+        "duration" : 3453
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Enter Username With valid Data",
+      "time" : {
+        "start" : 1634803291126,
+        "stop" : 1634803291225,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Click on Start Button",
+      "time" : {
+        "start" : 1634803291226,
+        "stop" : 1634803301657,
+        "duration" : 10431
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then User Should be Navigate to Question Page  Successfully",
+      "time" : {
+        "start" : 1634803301657,
+        "stop" : 1634803303695,
+        "duration" : 2038
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "home_page"
+  }, {
+    "name" : "feature",
+    "value" : "Wowdare User Side End to End Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "home_page" ]
+  },
+  "source" : "2ab52b3da27b6f02.json",
+  "parameterValues" : [ ]
+}

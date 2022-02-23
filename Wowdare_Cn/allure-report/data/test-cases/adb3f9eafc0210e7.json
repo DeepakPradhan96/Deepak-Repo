@@ -1,0 +1,72 @@
+{
+  "uid" : "adb3f9eafc0210e7",
+  "name" : "To check the functionality of Share Page",
+  "fullName" : "Wowdare User Side End to End Functionality: To check the functionality of Share Page",
+  "historyId" : "54125d316e3b43127841e118f22b7afe",
+  "time" : {
+    "start" : 1634803322966,
+    "stop" : 1634803325765,
+    "duration" : 2799
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When Click On Copy link_Button",
+      "time" : {
+        "start" : 1634803322968,
+        "stop" : 1634803325765,
+        "duration" : 2797
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "share_page"
+  }, {
+    "name" : "feature",
+    "value" : "Wowdare User Side End to End Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "share_page" ]
+  },
+  "source" : "adb3f9eafc0210e7.json",
+  "parameterValues" : [ ]
+}

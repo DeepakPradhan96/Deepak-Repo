@@ -1,0 +1,101 @@
+[ {
+  "uid" : "ead47af494d66694",
+  "name" : "To check the functionality of Share Page Scoreboard and View Buttons",
+  "time" : {
+    "start" : 1634803399849,
+    "stop" : 1634803422555,
+    "duration" : 22706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ab52b3da27b6f02",
+  "name" : "To check the functionality of the Home_Page With Valid & Invalid Data.",
+  "time" : {
+    "start" : 1634803265784,
+    "stop" : 1634803303695,
+    "duration" : 37911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5083a08536befa4",
+  "name" : "To check the functionality of Share Page Delete Buttons",
+  "time" : {
+    "start" : 1634803448481,
+    "stop" : 1634803457989,
+    "duration" : 9508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b15d68023673a859",
+  "name" : "To check the functionality of Complete Page",
+  "time" : {
+    "start" : 1634803397186,
+    "stop" : 1634803399789,
+    "duration" : 2603
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8debbfad13d0b9ba",
+  "name" : "To Check the functionality of Accept_Page With Valid & Invalid Data.",
+  "time" : {
+    "start" : 1634803325767,
+    "stop" : 1634803371920,
+    "duration" : 46153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f08f4e8a9532df7f",
+  "name" : "To check the functionality of Question_Page Skip Button And  Navigate To Share Page",
+  "time" : {
+    "start" : 1634803312162,
+    "stop" : 1634803322964,
+    "duration" : 10802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "adb3f9eafc0210e7",
+  "name" : "To check the functionality of Share Page",
+  "time" : {
+    "start" : 1634803322966,
+    "stop" : 1634803325765,
+    "duration" : 2799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93c1504c6f0d226e",
+  "name" : "Check the functionality of Question Page",
+  "time" : {
+    "start" : 1634803304006,
+    "stop" : 1634803312058,
+    "duration" : 8052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d48c213b02077b5b",
+  "name" : "Check the functionality of Answer Page",
+  "time" : {
+    "start" : 1634803371923,
+    "stop" : 1634803397183,
+    "duration" : 25260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52f6c9fddbb34f71",
+  "name" : "To check the functionality of View Page",
+  "time" : {
+    "start" : 1634803422557,
+    "stop" : 1634803448480,
+    "duration" : 25923
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

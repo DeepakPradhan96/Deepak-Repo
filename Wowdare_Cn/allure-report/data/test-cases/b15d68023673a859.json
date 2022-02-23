@@ -1,0 +1,97 @@
+{
+  "uid" : "b15d68023673a859",
+  "name" : "To check the functionality of Complete Page",
+  "fullName" : "Wowdare User Side End to End Functionality: To check the functionality of Complete Page",
+  "historyId" : "d597327387c5dfc69ddbe90bf85a099a",
+  "time" : {
+    "start" : 1634803397186,
+    "stop" : 1634803399789,
+    "duration" : 2603
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"C:\\Python39\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Python39\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"Feature\\steps\\StepDefination.py\", line 313, in step_impl\n    assert context.driver2.current_url == \"https://wowdare.xyz/en?utm_site_source=completed&utm_site_medium=createButtonEnglish&utm_site_campaign=userFriend\"  # \"invalid Home Page url\"\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"C:\\Python39\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Python39\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"Feature\\steps\\StepDefination.py\", line 313, in step_impl\n    assert context.driver2.current_url == \"https://wowdare.xyz/en?utm_site_source=completed&utm_site_medium=createButtonEnglish&utm_site_campaign=userFriend\"  # \"invalid Home Page url\"\n",
+    "steps" : [ {
+      "name" : "When User Friend Click On Create Your Quiz Button",
+      "time" : {
+        "start" : 1634803397188,
+        "stop" : 1634803399609,
+        "duration" : 2421
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then User Friend Become User And Navigate To Home Page",
+      "time" : {
+        "start" : 1634803399609,
+        "stop" : 1634803399788,
+        "duration" : 179
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"C:\\Python39\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Python39\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"Feature\\steps\\StepDefination.py\", line 313, in step_impl\n    assert context.driver2.current_url == \"https://wowdare.xyz/en?utm_site_source=completed&utm_site_medium=createButtonEnglish&utm_site_campaign=userFriend\"  # \"invalid Home Page url\"\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "Complete_page"
+  }, {
+    "name" : "feature",
+    "value" : "Wowdare User Side End to End Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "Complete_page" ]
+  },
+  "source" : "b15d68023673a859.json",
+  "parameterValues" : [ ]
+}

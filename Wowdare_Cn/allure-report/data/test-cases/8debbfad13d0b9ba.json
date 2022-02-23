@@ -1,0 +1,162 @@
+{
+  "uid" : "8debbfad13d0b9ba",
+  "name" : "To Check the functionality of Accept_Page With Valid & Invalid Data.",
+  "fullName" : "Wowdare User Side End to End Functionality: To Check the functionality of Accept_Page With Valid & Invalid Data.",
+  "historyId" : "03c917ac6824ab0c8e6cc20d4dd5291a",
+  "time" : {
+    "start" : 1634803325767,
+    "stop" : 1634803371920,
+    "duration" : 46153
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User Friend open Browser, Enter Url, Navigate To Log_in Page",
+      "time" : {
+        "start" : 1634803325769,
+        "stop" : 1634803345992,
+        "duration" : 20223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When User Friend Enter Username With Invalid Data",
+      "time" : {
+        "start" : 1634803345992,
+        "stop" : 1634803347474,
+        "duration" : 1482
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Friend Click On start Button",
+      "time" : {
+        "start" : 1634803347474,
+        "stop" : 1634803347584,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Friend Validate onesignal pop-up functionality With click on Later Button",
+      "time" : {
+        "start" : 1634803347585,
+        "stop" : 1634803353937,
+        "duration" : 6352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Friend Enter Username With Valid Data",
+      "time" : {
+        "start" : 1634803353937,
+        "stop" : 1634803354078,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User Friend Click on Start Buttons",
+      "time" : {
+        "start" : 1634803354079,
+        "stop" : 1634803371905,
+        "duration" : 17826
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then User Friend Should be Navigate to Answer Page  Successfully",
+      "time" : {
+        "start" : 1634803371905,
+        "stop" : 1634803371920,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "Accept_Page"
+  }, {
+    "name" : "feature",
+    "value" : "Wowdare User Side End to End Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Accept_Page" ]
+  },
+  "source" : "8debbfad13d0b9ba.json",
+  "parameterValues" : [ ]
+}

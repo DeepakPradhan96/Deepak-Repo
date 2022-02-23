@@ -1,0 +1,5 @@
+2021-09-26 12:12:31,931 - __main__ - INFO - Information
+2021-09-26 12:12:31,932 - __main__ - WARNING - warning
+2021-09-26 12:12:50,462 - __main__ - INFO - This is log info
+2022-01-09 13:53:12,640 - __main__ - INFO - Information
+2022-01-09 13:53:12,641 - __main__ - WARNING - warning

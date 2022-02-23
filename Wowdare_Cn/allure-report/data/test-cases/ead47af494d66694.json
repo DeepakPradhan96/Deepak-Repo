@@ -1,0 +1,102 @@
+{
+  "uid" : "ead47af494d66694",
+  "name" : "To check the functionality of Share Page Scoreboard and View Buttons",
+  "fullName" : "Wowdare User Side End to End Functionality: To check the functionality of Share Page Scoreboard and View Buttons",
+  "historyId" : "f77ce3713c5bdc2cabb9363879c568ef",
+  "time" : {
+    "start" : 1634803399849,
+    "stop" : 1634803422555,
+    "duration" : 22706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Validate the Scoreboard  Button Functionality",
+      "time" : {
+        "start" : 1634803399852,
+        "stop" : 1634803411849,
+        "duration" : 11997
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When User Click On View_Button",
+      "time" : {
+        "start" : 1634803411849,
+        "stop" : 1634803422539,
+        "duration" : 10690
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then User Should Be Navigate To View Page",
+      "time" : {
+        "start" : 1634803422539,
+        "stop" : 1634803422555,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "share_page"
+  }, {
+    "name" : "feature",
+    "value" : "Wowdare User Side End to End Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "share_page" ]
+  },
+  "source" : "ead47af494d66694.json",
+  "parameterValues" : [ ]
+}

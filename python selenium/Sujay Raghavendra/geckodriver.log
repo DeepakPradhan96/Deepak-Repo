@@ -1,0 +1,26 @@
+1637900869272	geckodriver	INFO	Listening on 127.0.0.1:57217
+1637900872521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57218" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofilef3OY5Z"
+1637900885334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofilef3OY5Z\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:57218/devtools/browser/d1adc636-4e0b-4081-9d6f-45611bfaccb2
+1637900926636	Marionette	INFO	Listening on port 57223
+1637900927355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.apress.com/spcom/js/vendor/googleapis/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637901580851	Marionette	INFO	Stopped listening on port 57223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofilezKBA0F\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:57373/devtools/browser/c33bc912-7dc5-44c4-b9af-d64830e3e174
+1637901067110	Marionette	INFO	Listening on port 57378
+1637901070147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.apress.com/spcom/js/vendor/googleapis/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637901579196	Marionette	INFO	Stopped listening on port 57378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

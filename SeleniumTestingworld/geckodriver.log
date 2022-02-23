@@ -1,0 +1,26 @@
+1631982450157	geckodriver	INFO	Listening on 127.0.0.1:55878
+1631982453468	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofile4UkUoK"
+1631982472148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofile4UkUoK\\search.json.mozlz4", (void 0)))
+[Parent 2456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631982503211	Marionette	INFO	Listening on port 60078
+1631982503826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631982603737	Marionette	INFO	Stopped listening on port 60078
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 2456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631982748862	geckodriver	INFO	Listening on 127.0.0.1:50138
+1631982751899	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileRL0ZKf"
+1631982753592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileRL0ZKf\\search.json.mozlz4", (void 0)))
+1631982758551	Marionette	INFO	Listening on port 60282
+1631982758887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631986190559	Marionette	INFO	Stopped listening on port 60282
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 6404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

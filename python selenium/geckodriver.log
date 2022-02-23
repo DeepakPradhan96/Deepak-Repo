@@ -1,0 +1,125 @@
+1627618550638	geckodriver	INFO	Listening on 127.0.0.1:53078
+1627618553749	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileR8EcNQ"
+1627618615529	geckodriver	INFO	Listening on 127.0.0.1:53137
+1627618618576	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileYm346a"
+1627618619215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileYm346a\\search.json.mozlz4", (void 0)))
+1627618623556	Marionette	INFO	Listening on port 53145
+1627618623938	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7784, MediaDecoderStateMachine #1] WARNING: 152c5800 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.youtube.com/s/player/3c3086a1/player_ias.vflset/en_US/base.js, line 3407: TypeError: c is undefined
+1627622459150	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627622459213	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627622481873	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627622481891	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627622933496	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627624953260	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627624953312	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627628655754	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627628655800	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627628784412	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627629943357	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627629963723	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627629963727	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627631807783	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627631807822	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627634335211	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627634335248	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627635846706	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1627635846714	Sync.ErrorHandler	ERROR	Sync encountered a login error
+[Parent 2056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+1628098719125	geckodriver	INFO	Listening on 127.0.0.1:53414
+1628098722149	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileEWFMFC"
+1628098734678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileEWFMFC\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628098761232	Marionette	INFO	Listening on port 53422
+1628098761751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1628100078793	Marionette	INFO	Stopped listening on port 53422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628099710561	geckodriver	INFO	Listening on 127.0.0.1:53598
+1628099713611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileOYqC8T"
+1628099714350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileOYqC8T\\search.json.mozlz4", (void 0)))
+1628099718621	Marionette	INFO	Listening on port 53606
+1628099719150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1628100080136	Marionette	INFO	Stopped listening on port 53606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofilegzBmW9"
+1628100035436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofilegzBmW9\\search.json.mozlz4", (void 0)))
+1628100039993	Marionette	INFO	Listening on port 53702
+1628100040909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+[Parent 6264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628100074732	Marionette	INFO	Stopped listening on port 53702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628100347497	geckodriver	INFO	Listening on 127.0.0.1:53773
+1628100350545	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileCZ4WyV"
+1628100351123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileCZ4WyV\\search.json.mozlz4", (void 0)))
+1628100357342	Marionette	INFO	Listening on port 53781
+1628100357521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1628100362464	Marionette	INFO	Stopped listening on port 53781
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628100415588	geckodriver	INFO	Listening on 127.0.0.1:53878
+1628100418634	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileqPFUbJ"
+1628100419207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepaak\\AppData\\Local\\Temp\\rust_mozprofileqPFUbJ\\search.json.mozlz4", (void 0)))
+1628100423665	Marionette	INFO	Listening on port 53886
+1628100424694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1628100430294	Marionette	INFO	Stopped listening on port 53886
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.

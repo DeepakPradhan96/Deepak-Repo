@@ -1,0 +1,15 @@
+<employee>
+<department = "Testing">
+<fname>John </fname>
+<lname>Wick</lname>
+<title>Senior Tester</title>
+<salary>$10000</salary>
+</department>
+<department = "Development">
+<fname>Harry</fname>
+<lname>Potter</lname>
+ChapTer 4 Web elemenTs44
+<title>Junior Developer</title>
+<salary>$5000</salary>
+</department>
+</employee>
